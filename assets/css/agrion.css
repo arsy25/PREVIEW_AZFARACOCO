@@ -2269,11 +2269,11 @@ ul {
 
 .main-slider__title {
   position: relative;
-  font-size: 50px;
+  font-size: 20px;
   color: var(--agrion-white);
   font-weight: 700;
   font-family: var(--agrion-font);
-  line-height: 50px;
+  line-height: 20px;
   margin-top: 11px;
   margin-bottom: 19px;
   opacity: 0;
