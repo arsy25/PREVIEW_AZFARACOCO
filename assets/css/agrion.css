@@ -2273,7 +2273,7 @@ ul {
   color: var(--agrion-white);
   font-weight: 700;
   font-family: var(--agrion-font);
-  line-height: 170px;
+  line-height: 50px;
   margin-top: 11px;
   margin-bottom: 19px;
   opacity: 0;
